@@ -127,4 +127,4 @@ These exercises are intended for educational purposes and provide practical expe
 
 ## Author
 
-**<Your Name>**
+**Sonia Bäckström**
